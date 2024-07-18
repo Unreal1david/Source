@@ -139,7 +139,7 @@ body {
 }
 
 a {
-    color: var(--color-darker-gray);
+    color: var(--color-white);
     text-decoration: none;
 }
 
@@ -1969,7 +1969,7 @@ Search                         LOGO                    Login Subscribe
     font-weight: 500;
     letter-spacing: 0.01em;
     text-transform: uppercase;
-    color: var(--ghost-accent-color);
+    color: #33ccff;
 }
 
 .gh-article-title {
@@ -2154,7 +2154,7 @@ unless a heading is the very first element in the post content */
 }
 
 .gh-content a {
-    color: var(--ghost-accent-color);
+    color: #03befc;
     text-decoration: underline;
 }
 
@@ -2461,7 +2461,7 @@ figcaption {
 }
 
 figcaption a {
-    color: var(--ghost-accent-color);
+    color: var(--color-white);
     text-decoration: underline;
 }
 
